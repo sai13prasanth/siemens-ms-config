@@ -1,0 +1,4 @@
+services:
+  eureka-server:
+    build: ./eureka-server3
+    container_name: eureka-server3
